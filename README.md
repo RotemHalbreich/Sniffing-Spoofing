@@ -1,2 +1,15 @@
-# Sniffing-and-Spoofing
-Networks &amp; Communication course - Final project
+# *Sniffing & Spoofing* 🕵️‍♂️
+## *Networks & Communication Course - Final Project*
+![Inkedtheoretical_part-01_LI](https://user-images.githubusercontent.com/66558110/156892842-4d33de2d-64f6-46d4-830e-e9722b1b9198.jpg)
+![theoretical_part-02](https://user-images.githubusercontent.com/66558110/156892873-2d7036cc-a657-43bc-9498-2655174eb7f2.jpg)
+![theoretical_part-03](https://user-images.githubusercontent.com/66558110/156892881-f04e1d4b-198d-4d78-8df0-2056940f5e9b.jpg)
+![theoretical_part-04](https://user-images.githubusercontent.com/66558110/156892888-6dd4e84a-d1f5-4895-a621-b8a45681b6ba.jpg)
+![theoretical_part-05](https://user-images.githubusercontent.com/66558110/156892890-43a0f13b-27da-40fd-8f98-fb41ae4c0756.jpg)
+![theoretical_part-06](https://user-images.githubusercontent.com/66558110/156892894-b7fedffe-7261-4cae-8d69-a32255e95c1b.jpg)
+![theoretical_part-07](https://user-images.githubusercontent.com/66558110/156892900-733f6d71-6bbd-45e6-8e1e-e91570f3580c.jpg)
+![theoretical_part-08](https://user-images.githubusercontent.com/66558110/156892904-0845f040-cf4b-4635-bad3-2cbfb220aad5.jpg)
+![theoretical_part-09](https://user-images.githubusercontent.com/66558110/156892911-84a3e1cd-a34e-41c3-a1d9-54438436941e.jpg)
+![theoretical_part-10](https://user-images.githubusercontent.com/66558110/156892914-e6d15359-eb97-450f-a7f3-a8bc12ac1ca5.jpg)
+![theoretical_part-11](https://user-images.githubusercontent.com/66558110/156892917-c719278c-4f21-415e-a9e5-9dfca10bba1d.jpg)
+![theoretical_part-12](https://user-images.githubusercontent.com/66558110/156892926-e73e9893-8235-4fb8-9fea-fcc69c24e08c.jpg)
+![theoretical_part-13](https://user-images.githubusercontent.com/66558110/156892939-4406086e-c2be-441d-b0f9-995f7a5679ed.jpg)
